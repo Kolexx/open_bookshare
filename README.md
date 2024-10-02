@@ -2,9 +2,22 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Create an account on supabase after create  a table called 'book_share'
+create the necessary column on the table also create a storage bucket  and create 2 folders called book_file and book_image
+
+
+
+on firebase create an authentication instance
+
+
+
+
+
+First, install all dependencies and run the development server:
 
 ```bash
+npm install
+
 npm run dev
 # or
 yarn dev
